@@ -5,4 +5,4 @@ On clicking the icons, it should show the next/previous image.
 When the next icon on the last image is clicked, it should show the first image.
 When the previous icon on the first image is clicked, it should show the last image. 
 
-HOSTING LNK: 
+HOSTING LNK:  https://mynameissaraah.github.io/Carousel-Slideshow/
